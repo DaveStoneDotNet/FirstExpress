@@ -1,3 +1,7 @@
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
 # Logs
 logs
 *.log
@@ -25,3 +29,6 @@ build/Release
 node_modules
 
 .idea
+
+node_modules/
+
