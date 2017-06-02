@@ -2,6 +2,9 @@
 // Making changes for reported Issue #53. Adding arbitrary variable.
 var monkey = 'chimp';
 
+// Last-minute hotfix to add a more important arbritrary variable.
+var fruit = 'bananas';
+
 var express = require('express');
 var router = express.Router();
 
