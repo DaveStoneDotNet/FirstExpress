@@ -1,3 +1,7 @@
+
+// Last-minute hotfix to add a more important arbritrary variable.
+var fruit = 'bananas';
+
 var express = require('express');
 var router = express.Router();
 
