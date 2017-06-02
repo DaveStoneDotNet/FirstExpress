@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET home page. */
 var renderOptions = { 
-                        title: 'Express II' 
+                        title: 'Express III' 
                     };
 
 router.get('/', function (req, res) {
